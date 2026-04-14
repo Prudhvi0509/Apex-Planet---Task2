@@ -30,9 +30,3 @@ User Feedback: Integrated alert systems provide immediate confirmation upon succ
 Adaptive Navigation: A custom-coded navbar that transitions seamlessly from desktop to mobile views.
 
 Visual Design: Professional aesthetic featuring linear gradients (#667eea to #764ba2) and high-readability typography.
-
-📂 Repository Structure
-Plaintext
-├── index.html   # Markup and SEO configuration
-├── style.css    # Responsive design and theme logic
-└── script.js    # Functional logic and event listeners
